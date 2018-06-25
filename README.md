@@ -1,3 +1,26 @@
+## vrpn_client_ros (melodic) - 0.2.2-0
+
+The packages in the `vrpn_client_ros` repository were released into the `melodic` distro by running `/usr/local/bin/bloom-release -r melodic -t melodic vrpn_client_ros` on `Mon, 25 Jun 2018 20:07:06 -0000`
+
+The `vrpn_client_ros` package was released.
+
+Version of package(s) in repository `vrpn_client_ros`:
+
+- upstream repository: https://github.com/ros-drivers/vrpn_client_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.5`
+- catkin_pkg version: `0.4.3`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## vrpn_client_ros (kinetic) - 0.2.2-0
 
 The packages in the `vrpn_client_ros` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release -t kinetic -r kinetic vrpn_client_ros -y` on `Thu, 30 Nov 2017 05:25:00 -0000`
