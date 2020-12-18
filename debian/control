@@ -1,0 +1,12 @@
+Source: ros-noetic-vrpn-client-ros
+Section: misc
+Priority: optional
+Maintainer: Paul Bovbel <paul@bovbel.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-roscpp, ros-noetic-roslaunch, ros-noetic-roslint, ros-noetic-tf2-ros, ros-noetic-vrpn
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-vrpn-client-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-geometry-msgs, ros-noetic-roscpp, ros-noetic-tf2-ros, ros-noetic-vrpn
+Description: ROS client nodes for the VRPN library, compatible with VICON, OptiTrack, and other hardware interfaces.
